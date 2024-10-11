@@ -3,9 +3,11 @@ This is the original repository for the article:
 N. D. Trac and K. Sunghwan, “DRF-ECCT: Dynamic reliability filter for error correction code
 transformer,” in Procs Int. Conf. Green Human Inf. Tech. (ICGHIT), Feb. 2024, pp. 18-23.
 
-The full paper can be read by accessing [this file](DRF-ECCT/paper/ICGHIT2024_Proceeding_CI5_NgDangTrac.pdf)
+The full paper can be read by accessing [this file](DRF-ECCT/paper/ICGHIT2024_Proceeding_CI5_NgDangTrac.pdf).
 This article was awarded best paper by the committee of the ICGHIT2024 Conference. 
+
 [Certification of Best paper award](DRF-ECCT/paper/BestPaper_DRF-ECCT.pdf)
+
 [Announcement email of best paper award](DRF-ECCT/paper/ICGHIT2024_Announcement_best_paper_award.pdf)
 
 ## Abstract
